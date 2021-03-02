@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['scoped_5fallocator_4012',['scoped_allocator',['http://en.cppreference.com/w/cpp/header/scoped_allocator.html',1,'']]],
+  ['series_2eh_4013',['series.h',['../series_8h.html',1,'']]],
+  ['series_5fgeneric_2eh_4014',['series_generic.h',['../series__generic_8h.html',1,'']]],
+  ['set_4015',['set',['http://en.cppreference.com/w/cpp/header/set.html',1,'']]],
+  ['sets_2eh_4016',['sets.h',['../sets_8h.html',1,'']]],
+  ['shared_5fmutex_4017',['shared_mutex',['http://en.cppreference.com/w/cpp/header/shared_mutex.html',1,'']]],
+  ['solve_2eh_4018',['solve.h',['../solve_8h.html',1,'']]],
+  ['span_4019',['span',['http://en.cppreference.com/w/cpp/header/span.html',1,'']]],
+  ['sstream_4020',['sstream',['http://en.cppreference.com/w/cpp/header/sstream.html',1,'']]],
+  ['stack_4021',['stack',['http://en.cppreference.com/w/cpp/header/stack.html',1,'']]],
+  ['stdexcept_4022',['stdexcept',['http://en.cppreference.com/w/cpp/header/stdexcept.html',1,'']]],
+  ['streambuf_4023',['streambuf',['http://en.cppreference.com/w/cpp/header/streambuf.html',1,'']]],
+  ['string_4024',['string',['http://en.cppreference.com/w/cpp/header/string.html',1,'']]],
+  ['string_5fview_4025',['string_view',['http://en.cppreference.com/w/cpp/header/string_view.html',1,'']]],
+  ['strstream_4026',['strstream',['http://en.cppreference.com/w/cpp/header/strstream.html',1,'']]],
+  ['symbol_2eh_4027',['symbol.h',['../symbol_8h.html',1,'']]],
+  ['syncstream_4028',['syncstream',['http://en.cppreference.com/w/cpp/header/syncstream.html',1,'']]],
+  ['system_5ferror_4029',['system_error',['http://en.cppreference.com/w/cpp/header/system_error.html',1,'']]]
+];
